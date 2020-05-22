@@ -1,0 +1,22 @@
+.resultwrap {
+    h2 {
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    hr {
+      color: #CCCCCC;
+      height: 2px;
+      background: #5b5c60;
+      margin: 5px 0 10px 0;
+    }    
+    .resulttext {
+      color: #FFFFFF;
+      font-size: 18px;
+    }
+    button {
+      margin-top: 20px;
+    }
+    .table-responsive {
+      overflow: hidden;
+    }
+  }
